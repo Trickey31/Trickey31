@@ -1,6 +1,6 @@
-<!-- ![alt text](./images/header.svg) -->
+![alt text](./images/header.svg)
 
-![alt text](https://svg-banners.vercel.app/api?type=origin&text1=Dynamic%20SVG%20%F0%9F%A4%A0&text2=%F0%9F%92%96%20Open%20Source&width=800&height=400)
+<!-- ![alt text](https://svg-banners.vercel.app/api?type=origin&text1=Dynamic%20SVG%20%F0%9F%A4%A0&text2=%F0%9F%92%96%20Open%20Source&width=800&height=400) -->
 
 <h3 align="center">Software Engineer</h3>
 
