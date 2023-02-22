@@ -8,7 +8,7 @@
     <br>enjoys learning <b>new technologies</b> <img src="./images/Designer.gif" width="36px" height="36px"> and discovering the <b>essence of problems.</b>
   </em> 
   <br>
-  <img src="./images/dog_2.gif" width="50" /> <img src="./images/dog_1.gif" width="50" />
+  <img src="./images/dog_2.gif" width="50" /> <b><i align="center">"We already what we need to do"</i></b> <img src="./images/dog_1.gif" width="50" />
 </p>
 
 <br>
@@ -18,7 +18,7 @@
 ### <img src="./images/stats.gif" width="30px" height="30px"> **_About Me_**
 
 - 🌱 I'm learning **_Javascript_** and **_ReactJS_** 😍
-- 📫 Ask me anything you want [**here**](https://github.com/Trickey31), If I were alive, I would reply within seconds 😉
+- 📫 Ask me anything you want [**here**](https://github.com/Trickey31), I will reply within seconds 😉
 - 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
 
 <br>
