@@ -1,7 +1,5 @@
 ![alt text](./images/header.svg)
 
-<!-- ![alt text](https://svg-banners.vercel.app/api?type=origin&text1=Dynamic%20SVG%20%F0%9F%A4%A0&text2=%F0%9F%92%96%20Open%20Source&width=800&height=400) -->
-
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
@@ -50,14 +48,12 @@
 
 ### **_📊 GitHub Profile Stats_**
 
-<div align="left">
-  <div display=flex>
-    <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Trickey31&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-    <img height="190em" width="" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Trickey31&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-  </div>
-  <br>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</div>
+<p align="left">
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=trickey31&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trickey31&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+<br>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
